@@ -1,0 +1,84 @@
+[
+{
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "year": 1960,
+    "price":50,
+"image_url": "https://media.glamour.com/photos/56e1f3c462b398fa64cbd304/master/w_1600%2Cc_limit/entertainment-2016-02-18-main.jpg"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "year": 1949,
+"image_url":"https://m.media-amazon.com/images/I/61ZewDE3beL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fiction",
+    "year": 1925,
+     "price":60,
+"image_url":"https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg"
+
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "year": 1813,
+     "price":70,
+"image_url": "https://rukminim2.flixcart.com/image/850/1000/kkec4280/book/d/h/d/pride-prejudice-original-imafzra6pfewjjwb.jpeg?q=90&crop=false"
+  },
+  {
+    "id": 5,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "year": 1951,
+     "price":80,
+"image_url":"https://thethinksync.com/wp-content/uploads/2021/09/thecatcherintherye.jpg"
+  },
+
+  {
+    "id": 6,
+    "title": "Lord of the Flies",
+    "author": "William Golding",
+    "genre": "Fiction",
+    "year": 1954,
+     "price":90,
+"image_url":"https://upload.wikimedia.org/wikipedia/en/9/9b/LordOfTheFliesBookCover.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "year": 1937,
+     "price":100,
+"image_url":"https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/The_Hobbit_trilogy_dvd_cover.jpg/220px-The_Hobbit_trilogy_dvd_cover.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "Gothic",
+    "year": 1818,
+     "price":120,
+"image_url":"https://prodimage.images-bn.com/pimages/9781402743382_p0_v3_s1200x630.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "year": 1997,
+     "price":130,
+"image_url":"https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg"
+  }
+]
